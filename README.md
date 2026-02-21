@@ -1,7 +1,3 @@
-Para a sua publicação no GitHub, o ideal é criar um arquivo README.md que explique o projeto de forma profissional, destacando as tecnologias e a lógica utilizada.
-
-Aqui está uma sugestão de texto estruturada para você copiar e colar:
-
 📦 Calculadora de Descontos - Projeto Lab365/SCTec
 Esta é uma aplicação web simples e moderna desenvolvida para calcular descontos em produtos de forma automática. O projeto foi criado como parte da trilha de desenvolvimento de software, focando na manipulação do DOM e lógica de programação com JavaScript.
 
